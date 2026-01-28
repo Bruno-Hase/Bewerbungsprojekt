@@ -17,35 +17,6 @@ simple-todo/
 ├── style.css     # Design
 └── script.js     # JavaScript
 ```
-
-##  Was zeigt dieses Projekt?
-
-### HTML-Grundlagen:
- Grundstruktur (`<html>`, `<head>`, `<body>`)
- Überschriften (`<h1>`)
- Eingabefeld (`<input>`)
- Button (`<button>`)
- Liste (`<ul>`, `<li>`)
- IDs (`id="..."`)
-
-### CSS-Grundlagen:
- Farben einstellen
- Abstände (padding, margin)
- Layout (flexbox)
- Hover-Effekte (`:hover`)
- Border und Schatten
-
-### JavaScript-Grundlagen:
- **Variablen** - `var`, `let`
- **Funktionen** - `function name() { ... }`
- **If-Bedingung** - `if (text == "") { ... }`
- **DOM zugreifen** - `document.getElementById()`
- **Elemente erstellen** - `document.createElement()`
- **Text setzen** - `.textContent = "..."`
- **Elemente hinzufügen** - `.appendChild()`
- **Elemente löschen** - `.removeChild()`
- **Event-Listener** - `.addEventListener()` **Rechnen** - `zahl + 1`, `zahl - 1`
-
 ---
 
 ## Code erklärt
