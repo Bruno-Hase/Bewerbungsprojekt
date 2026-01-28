@@ -1,6 +1,6 @@
 Autor: Bruno Hase
-Version: 2.0
-letzte Änderung: 28.01.2026
+    Version: 2.0
+    letzte Änderung: 28.01.2026
 
 
 ## Was kann die App?
